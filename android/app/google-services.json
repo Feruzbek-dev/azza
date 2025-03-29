@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640278707281",
+    "project_id": "azza-60977",
+    "storage_bucket": "azza-60977.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640278707281:android:a5e77cd0d56828e5e30c70",
+        "android_client_info": {
+          "package_name": "com.example.web_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd_9-ILYDEOuiHC7vZXJkyvv-zkkuiskc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
